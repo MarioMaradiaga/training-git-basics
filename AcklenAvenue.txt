@@ -1,1 +1,2 @@
-This is a git basics tutorial
+This is a git basics tutorial.
+These are some new changes on the file.
